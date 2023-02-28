@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.74df385e.css",
-    "main.js": "/static/js/main.89baaaae.js",
+    "main.css": "/static/css/main.c2a7a0af.css",
+    "main.js": "/static/js/main.d4f841d9.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/fw21_0500_Piyush_khurana_resume.pdf": "/static/media/fw21_0500_Piyush_khurana_resume.b4b4da87d1da4b7ae597.pdf",
+    "static/media/fw21_0500-Piyush-Khurana-Resume.pdf": "/static/media/fw21_0500-Piyush-Khurana-Resume.b4b4da87d1da4b7ae597.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.74df385e.css.map": "/static/css/main.74df385e.css.map",
-    "main.89baaaae.js.map": "/static/js/main.89baaaae.js.map",
+    "main.c2a7a0af.css.map": "/static/css/main.c2a7a0af.css.map",
+    "main.d4f841d9.js.map": "/static/js/main.d4f841d9.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74df385e.css",
-    "static/js/main.89baaaae.js"
+    "static/css/main.c2a7a0af.css",
+    "static/js/main.d4f841d9.js"
   ]
 }
